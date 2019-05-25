@@ -1,0 +1,6 @@
+C:\Learning\test\lab_8\Lab_8\SocketHttpServer\bin\Debug\SocketHttpServer.exe
+C:\Learning\test\lab_8\Lab_8\SocketHttpServer\bin\Debug\SocketHttpServer.pdb
+C:\Learning\test\lab_8\Lab_8\SocketHttpServer\obj\Debug\SocketHttpServer.csprojAssemblyReference.cache
+C:\Learning\test\lab_8\Lab_8\SocketHttpServer\obj\Debug\SocketHttpServer.csproj.CoreCompileInputs.cache
+C:\Learning\test\lab_8\Lab_8\SocketHttpServer\obj\Debug\SocketHttpServer.exe
+C:\Learning\test\lab_8\Lab_8\SocketHttpServer\obj\Debug\SocketHttpServer.pdb

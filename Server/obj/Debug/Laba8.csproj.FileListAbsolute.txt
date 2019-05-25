@@ -1,0 +1,29 @@
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Laba8\Laba8\Laba8\bin\Debug\Laba8.exe.config
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Laba8\Laba8\Laba8\bin\Debug\Laba8.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Laba8\Laba8\Laba8\bin\Debug\Laba8.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Laba8\Laba8\Laba8\obj\Debug\Laba8.csprojResolveAssemblyReference.cache
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Laba8\Laba8\Laba8\obj\Debug\Laba8.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Laba8\Laba8\Laba8\obj\Debug\Laba8.pdb
+C:\Users\User\Desktop\КСИС\Laba8\Laba8\Laba8\bin\Debug\Laba8.exe.config
+C:\Users\User\Desktop\КСИС\Laba8\Laba8\Laba8\obj\Debug\Laba8.exe
+C:\Users\User\Desktop\КСИС\Laba8\Laba8\Laba8\obj\Debug\Laba8.pdb
+C:\Users\User\Desktop\КСИС\Laba8\Laba8\Laba8\bin\Debug\Laba8.exe
+C:\Users\User\Desktop\КСИС\Laba8\Laba8\Laba8\bin\Debug\Laba8.pdb
+C:\Users\User\Desktop\КСИС\Laba8\Laba8\Laba8\obj\Debug\Laba8.csprojResolveAssemblyReference.cache
+C:\Learning\test\ksis\Laba8\Laba8\Laba8\bin\Debug\Laba8.exe.config
+C:\Learning\test\ksis\Laba8\Laba8\Laba8\bin\Debug\Laba8.exe
+C:\Learning\test\ksis\Laba8\Laba8\Laba8\bin\Debug\Laba8.pdb
+C:\Learning\test\ksis\Laba8\Laba8\Laba8\obj\Debug\Laba8.csprojAssemblyReference.cache
+C:\Learning\test\ksis\Laba8\Laba8\Laba8\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Learning\test\ksis\Laba8\Laba8\Laba8\obj\Debug\Laba8.exe
+C:\Learning\test\ksis\Laba8\Laba8\Laba8\obj\Debug\Laba8.pdb
+C:\Learning\test\lab_8\Lab_8\Server\bin\Debug\Laba8.exe.config
+C:\Learning\test\lab_8\Lab_8\Server\bin\Debug\Laba8.exe
+C:\Learning\test\lab_8\Lab_8\Server\bin\Debug\Laba8.pdb
+C:\Learning\test\lab_8\Lab_8\Server\obj\Debug\Laba8.csprojAssemblyReference.cache
+C:\Learning\test\lab_8\Lab_8\Server\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Learning\test\lab_8\Lab_8\Server\obj\Debug\Laba8.exe
+C:\Learning\test\lab_8\Lab_8\Server\obj\Debug\Laba8.pdb
+C:\Learning\test\lab_8\Lab_8\Server\bin\Debug\Flurl.dll
+C:\Learning\test\lab_8\Lab_8\Server\bin\Debug\Flurl.xml
+C:\Learning\test\lab_8\Lab_8\Server\obj\Debug\Laba8.csproj.CopyComplete

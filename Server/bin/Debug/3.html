@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>target</title>
+  <style>
+   input:valid + span{
+    content:url(http://abali.ru/wp-content/uploads/2011/03/galochka-check_16x16.png);
+    width:10px;
+    margin-left:5px;
+	}
+   input:invalid + span{
+    content:url(http://abali.ru/wp-content/uploads/2011/04/delete_16x16.png);
+    width:10px; 
+	margin-left:5px;
+	}
+  </style>
+ </head>
+ <body>
+ <p>Пожалуйста, заполните обязательные поля.</p>
+ <form action="123.php">
+ <p>Имя: <input type="text" name="name" required><span></span></p>
+ <p>Возраст: <input type="number" name="age"><span></span></p>
+ <p>E-mail: <input type="email" name="email" required><span></span></p>
+ <p>Сайт: <input type="url" name="site"><span></span></p>
+ <p><button>Отправить</button><span></span></p>
+ <p><input type="reset" value="Очистить"></p>
+ </form>
+ </body>
+</html>
